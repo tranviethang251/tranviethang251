@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/thang-tran-a93555247/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/tranviethang251" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="mailto:vietthang2512004@gmail.com" alt="Email">
