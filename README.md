@@ -1,5 +1,4 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Thang Tran</h2>
@@ -7,7 +6,7 @@
   <h3 align="center">Engineering student </h3>
 </p>
 
-> ✍ I'm a software developer at [The University of Science and Technology - The University of Danang]([https://utop.io/](https://en.dut.udn.vn/)).
+> ✍ I'm a senior student at [The University of Science and Technology - The University of Danang](https://en.dut.udn.vn/).
 
 <br />
 
