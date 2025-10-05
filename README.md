@@ -6,17 +6,14 @@
   <h3 align="center">Engineering student </h3>
 </p>
 
-> ✍ I'm a senior student at [The University of Science and Technology - The University of Danang](https://en.dut.udn.vn/).
+> ✍ I'm a senior student at [The University of Science and Technology - The University of Danang](https://en.dut.udn.vn/). Now, I'm pursuing a major of Computer Engineering specializing in Embedded System Design, FPGA Prototyping and Embedded System Programming.
 
 <br />
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
 
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+  <a href="https://www.linkedin.com/in/thang-tran-a93555247/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/01.tien" alt="Facebook">
