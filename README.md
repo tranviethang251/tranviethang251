@@ -23,6 +23,11 @@
   </a>
 </p>
 
+## Achievement : 
+- **First Prize** of the student scientific research competition - Pinoneer Challenging
+
+## Publication : 
+- “Hardware Design of a Frame-Memory-Free Image Filter”,Journal of IKEEE, vol. 29, no. 2, pp. 198 - 204, 2025. [[crossref]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221142)
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
