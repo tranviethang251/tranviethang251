@@ -30,7 +30,8 @@
 | Project | Description |
 |-------|------------|
 | [Frame-Memory-Free Image Filter](https://github.com/tranviethang251/memory_controller.git) | line-controlled memory architecture for convolution implementation |
-
+| [UART-FPGA](https://github.com/tranviethang251/memory_controller.git) | UART with FIFO buffer |
+| [Traffic Light Controller](https://github.com/tranviethang251/Traffic_Light_Project.git) | FSM and Counter |
 
 ## Publication : 
 - “Hardware Design of a Frame-Memory-Free Image Filter”,Journal of IKEEE, vol. 29, no. 2, pp. 198 - 204, 2025. [[crossref]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221142)
