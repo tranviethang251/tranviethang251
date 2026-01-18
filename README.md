@@ -30,7 +30,7 @@
 | Project | Description |
 |-------|------------|
 | [Frame-Memory-Free Image Filter](https://github.com/tranviethang251/memory_controller.git) | line-controlled memory architecture for convolution implementation |
-| [UART-FPGA](https://github.com/tranviethang251/memory_controller.git) | UART with FIFO buffer |
+| [UART-FPGA](https://github.com/tranviethang251/UART_FPGA.git) | UART with FIFO buffer |
 | [Traffic Light Controller](https://github.com/tranviethang251/Traffic_Light_Project.git) | FSM and Counter |
 
 ## Publication : 
